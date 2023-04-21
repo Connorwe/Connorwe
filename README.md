@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development skills
 - 💞️ I’m looking for a job with any company that interests me 
 - 📫 How to reach me connor5741213@gmail.com
-- Main skills Are: React.js, CSS, and Javascript
+- Main Skills Are: React.js, CSS, and Javascript
 - Projects: https://github.com/Connorwe/our-story (In Progress)
 
 <!---
